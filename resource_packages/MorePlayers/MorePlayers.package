@@ -1,0 +1,15 @@
+mod = [
+	"MorePlayers"
+]
+
+package = [
+	"resource_packages/MorePlayers/MorePlayers"
+]
+
+lua = [
+	"scripts/mods/MorePlayers/*"
+]
+
+network_config = [
+	"content/MorePlayers/global"
+]

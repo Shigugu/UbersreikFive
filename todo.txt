@@ -1,0 +1,12 @@
+Need to patch:
+	!- Deed: Nurgle's Rot only been triggered on the first 4 players and the host. Need to trigger to all the clients.
+	
+	- Host force that clients can only pick a career once.
+	
+	- Checking stacking abilities::
+		dmg reduction footnight kruber
+		waystalker heal share
+		huntsman has crit chance aura
+		Kruber temp health
+	
+	-! Fix ProfileSync on game join (previous_owner.log)
